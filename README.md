@@ -1,21 +1,21 @@
-# Bank Loan Report Dashboard in Tableau
+# Bank Loan Report Dashboard in Power BI
 
-This project presents a comprehensive **Bank Loan Report** built entirely using **Tableau**. It provides a multi-dashboard analytical view of a bank’s lending activities, designed to monitor KPIs, identify trends, and assess the quality of the loan portfolio through interactive visualizations.
+This project presents a comprehensive **Bank Loan Report** built entirely using **Power BI**. It provides a multi-dashboard analytical view of a bank’s lending activities, designed to monitor KPIs, identify trends, and assess the quality of the loan portfolio through interactive visualizations.
 
 ---
 
 ## Dashboards Overview
-![image](https://github.com/user-attachments/assets/55822c9e-8cc7-493b-abdd-51a759aa272d)
-<img width="1060" height="534" alt="Screenshot 2025-07-16 173943" src="https://github.com/user-attachments/assets/1e582a6d-e800-43d8-94a8-caa750d1e6a0" />
-<img width="1060" height="537" alt="Screenshot 2025-07-16 174038" src="https://github.com/user-attachments/assets/201eaecc-dbe8-451a-80b9-8a8d39750155" />
-<img width="1032" height="532" alt="Screenshot 2025-07-16 174112" src="https://github.com/user-attachments/assets/fe53a947-b837-4a3b-90b6-b5787c069094" />
+![Home Portal](images/Home%20Page.png)
+![Summary Dashboard](images/Summary%20Page.png)
+![Overview Dashboard](images/Overview%20Page.png)
+![Details Dashboard](images/Detail%20Page.png)
 
 
 
 
 
 ###  **Dashboard 1: Summary**
-**Platform:** Tableau  
+**Platform:** Power BI  
 **Focus:** High-level KPIs to evaluate lending performance and portfolio health.
 
 ####  Key Performance Indicators (KPIs):
@@ -45,7 +45,7 @@ This project presents a comprehensive **Bank Loan Report** built entirely using 
 ---
 
 #### Loan Status Grid View:
-A tabular visualization in Tableau displaying per-loan-status:
+A tabular visualization in Power BI displaying per-loan-status:
 - Applications
 - Funded Amount
 - Received Amount
@@ -55,7 +55,7 @@ A tabular visualization in Tableau displaying per-loan-status:
 ---
 
 ### **Dashboard 2: Overview**
-**Platform:** Tableau  
+**Platform:** Power BI  
 **Focus:** Exploratory insights via visual analytics.
 
 #### Visualizations:
@@ -82,7 +82,7 @@ A tabular visualization in Tableau displaying per-loan-status:
 ---
 
 ###  **Dashboard 3: Details**
-**Platform:** Tableau  
+**Platform:** Power BI  
 **Focus:** Drill-down view of all loan records and borrower details.
 
 Includes:
